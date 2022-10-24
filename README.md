@@ -17,20 +17,20 @@ This analysis was performed to evaluate methods for assessing credit risk. The n
 ![alt text][smote_rec]
 
 * ClusterCentroids Undersampling
-![alt text][]
-![alt text][]
+![alt text][cc_acc]
+![alt text][cc_rec]
 
 * Combination Sampling
-![alt text][]
-![alt text][]
+![alt text][combo_acc]
+![alt text][combo_rec]
 
 * Random Forest Ensemble
-![alt text][]
-![alt text][]
+![alt text][rf_acc]
+![alt text][rf_rec]
 
 * AdaBoost Ensemble
-![alt text][]
-![alt text][]
+![alt text][ada_acc]
+![alt text][ada_rec]
 
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
@@ -45,18 +45,20 @@ Summary: Summarize the results of the machine learning models, and include a rec
 
 [smote_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTE_acc.png "SMOTE Balanced Accuracy Score"
 
-[smote_rec]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTE_recall.png "  Precision and Recall Scores"
+[smote_rec]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTE_recall.png "SMOTE Precision and Recall Scores"
 
-[]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_acc.png " Balanced Accuracy Score"
+[cc_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/cc_acc.png "ClusterCentroids Balanced Accuracy Score"
 
-[]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_acc.png "  Precision and Recall Scores"
+[cc_recall]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/cc_recall.png "ClusterCentroids Precision and Recall Scores"
 
-[]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_acc.png " Balanced Accuracy Score"
+[combo_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_acc.png "SMOTEENN Balanced Accuracy Score"
 
-[]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_recall.png "  Precision and Recall Scores"
+[combo_recall]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_recall.png "SMOTEENN Precision and Recall Scores"
 
-[]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_acc.png " Balanced Accuracy Score"
+[rf_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/rf_acc.png "Random Forest Balanced Accuracy Score"
 
-[]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_acc.png "  Precision and Recall Scores"
+[rf_rec]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/rf_recall.png "Random Forest Precision and Recall Scores"
 
-[]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_acc.png " Balanced Accuracy Score"
+[ada_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/ee_acc.png "AdaBoost Balanced Accuracy Score"
+
+[ada_rec]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/ee_recall.png "AdaBoost Precision and Recall Scores"
