@@ -10,7 +10,7 @@ This analysis was performed to evaluate methods for assessing credit risk. The n
 
 * Naive Random Oversampling
 ![alt text][naive_acc]
-![alt text][naive_recall]
+![alt text][naive_rec]
 
 * SMOTE Oversampling
 ![alt text][smote_acc]
@@ -41,7 +41,7 @@ Summary: Summarize the results of the machine learning models, and include a rec
 
 [naive_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_acc.png "Naive Balanced Accuracy Score"
 
-[naive_recall]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_recall.png "Naive Precision and Recall Scores"
+[naive_rec]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/naive_recall.png "Naive Precision and Recall Scores"
 
 [smote_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTE_acc.png "SMOTE Balanced Accuracy Score"
 
@@ -49,11 +49,11 @@ Summary: Summarize the results of the machine learning models, and include a rec
 
 [cc_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/cc_acc.png "ClusterCentroids Balanced Accuracy Score"
 
-[cc_recall]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/cc_recall.png "ClusterCentroids Precision and Recall Scores"
+[cc_rec]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/cc_recall.png "ClusterCentroids Precision and Recall Scores"
 
 [combo_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_acc.png "SMOTEENN Balanced Accuracy Score"
 
-[combo_recall]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_recall.png "SMOTEENN Precision and Recall Scores"
+[combo_rec]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_recall.png "SMOTEENN Precision and Recall Scores"
 
 [rf_acc]: https://github.com/ajkriegz/Credit_Risk_Analysis/blob/main/Resources/rf_acc.png "Random Forest Balanced Accuracy Score"
 
