@@ -4,12 +4,12 @@ This analysis was performed using Python 3, Jupyter Notebooks, and the imbalance
 
 ## Overview
 
-This analysis was performed to evaluate methods for assessing credit risk. The number of good loans heavily outnumbers risky loans, giving collected data unbalanced classes. Therefore, several techniques have been used and evaluated to assess the likely accuract of their predictions. 
+This analysis was performed to evaluate methods for assessing credit risk. The number of good loans heavily outnumbers risky loans, giving collected data unbalanced classes. Therefore, several techniques have been used and evaluated to assess the likely accuracy of their predictions. 
 
 
 ## Results
 
-The following terms important for understanding the data:
+The following terms will be important for understanding the data:
 
 ```Precision (pre): a measure of the number of true positives divided by the number of predicted positives. This number shows how reliable a positive classification is.```
 
